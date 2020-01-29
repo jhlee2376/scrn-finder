@@ -24,7 +24,7 @@ npm i
 
 DB정보 설정:
 ```
-setting/server_config.js 파일내용 수정
+./setting/server_config.js 파일 열기
 ```
 
 scrn DB 정보입력

@@ -16,13 +16,35 @@ scrn-finder를 복제할 폴더에 복사:
 git clone https://github.com/jbcp/scrn-finder.git
 ```
 
-### 2. Node 모듈 패키지 설치 및 실행
+### 2. Node 모듈 패키지 설치, DB 설정
 실행에 도움이 되는 패키지를 설치:
 ```
 npm i 
 ```
 
-scrn-folder 실행:
+DB정보 설정:
+```
+setting/server_config.js 파일내용 수정
+```
+
+scrn DB 정보입력
+```
+    user: '',       // id
+    password: '',   // password
+    server: '',     // db server ip address
+    port: '',       // db server port
+    database: '',   // db schema
+```
+CDM DB 정보 입력
+```
+    user: '',       // cdm server id
+    password: '',   // cdm server password
+    server: '',     // cdm server ip
+    port: '',       // cdm server port
+    database: '',   // cdm server schema
+```
+
+### 3. scrn-finder 실행
 ```
 node app.js
 ```

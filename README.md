@@ -50,4 +50,4 @@ node app.js
 ```
 
 ## Contact to developer(s)
-SANGUN JEONG - swjeong@jbcp.kr
+ [SANGUN JEONG](https://github.com/swjeong0502) - swjeong@jbcp.kr

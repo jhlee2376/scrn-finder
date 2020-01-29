@@ -37,11 +37,11 @@ database: '',   // db schema
 ```
 CDM DB 정보 입력
 ```
-    user: '',       // cdm server id
-    password: '',   // cdm server password
-    server: '',     // cdm server ip
-    port: '',       // cdm server port
-    database: '',   // cdm server schema
+user: '',       // cdm server id
+password: '',   // cdm server password
+server: '',     // cdm server ip
+port: '',       // cdm server port
+database: '',   // cdm server schema
 ```
 
 ### 3. scrn-finder 실행

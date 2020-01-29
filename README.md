@@ -29,11 +29,11 @@ DB정보 설정:
 
 scrn DB 정보입력
 ```
-    user: '',       // id
-    password: '',   // password
-    server: '',     // db server ip address
-    port: '',       // db server port
-    database: '',   // db schema
+user: '',       // id
+password: '',   // password
+server: '',     // db server ip address
+port: '',       // db server port
+database: '',   // db schema
 ```
 CDM DB 정보 입력
 ```
